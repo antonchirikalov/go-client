@@ -1,5 +1,6 @@
 # Overview
 The Go Client allows you to push data to <> using [Go](https://golang.org).
+client for https://github.com/python-diamond/Diamond   
 
 ## Package Documentation
 ```shell
